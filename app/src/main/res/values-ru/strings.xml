@@ -32,11 +32,14 @@
 
     <!-- Main activity -->
     <string name="updater_logo_description">Логотип программы обновления</string>
+	<string name="system_version_format" translatable="false">
+        Flamingo OS v<xliff:g example="2.3" id="version">%1$s</xliff:g>
+    </string>	 
     <string name="check_for_updates">Проверить обновления</string>
     <string name="checking_for_update">Проверка обновлений…</string>
     <string name="update_check_failed">Ошибка проверки обновления</string>
     <string name="last_checked_time_format">
-        Последняя проверка в <xliff:g example="11:02 AM" id="time">%1$s</xliff:g>
+        Последняя проверка id="time">%1$s</xliff:g> в <xliff:g example="11:02 AM"
     </string>
     <string name="up_to_date">Ваше устройство обновлено</string>
     <string name="come_back_later">Вернитесь позже…</string>
