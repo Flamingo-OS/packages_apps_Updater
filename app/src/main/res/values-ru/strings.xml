@@ -36,8 +36,7 @@
     <string name="checking_for_update">Проверка обновлений…</string>
     <string name="update_check_failed">Ошибка проверки обновления</string>
     <string name="last_checked_time_format">
-        Последняя проверка в <xliff:g example="11:02 AM" id="time">%1$s</xliff:g>
-    </string>
+        Последняя проверка в <xliff:g example="11:02 AM" id="time">%1$s</xliff:g></string>
     <string name="up_to_date">Ваше устройство обновлено</string>
     <string name="come_back_later">Вернитесь позже…</string>
     <string name="new_update_available">Доступно новое обновление</string>
